@@ -1,2 +1,2 @@
 # ShellScripts
-Example of shell scripts
+shell scripts tutorials
